@@ -5,7 +5,7 @@ define clouduser=C##CLOUD$SERVICE
 
 -- CUSTOMER SPECIFIC SETUP, NEEDS TO BE PROVIDED BY THE CUSTOMER
 -- - SSL Wallet directory
-define sslwalletdir=/opt/oracle/dcs/commonstore/wallets/tde/odidemo_nrt18m
+define sslwalletdir=<Set SSL Wallet Directory>
 
 --
 -- UNCOMMENT AND SET THE PROXY SETTINGS VARIABLES IF YOUR ENVIRONMENT NEEDS PROXYS
